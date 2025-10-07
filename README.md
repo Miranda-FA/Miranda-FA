@@ -34,7 +34,7 @@ Padronização e estruturação de toda a documentação do sistema Eorbis, melh
 
 ## Conecte-se comigo
 
-[LinkedIn](https://linkedin.com/in/seu-link) • [Email](mailto:seuemail@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/gabriel-miranda-964ba9330) • [Email](gmfa2004@gmail.com)
 
 ---
 
