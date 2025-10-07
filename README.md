@@ -40,8 +40,8 @@ Padronização e estruturação de toda a documentação do sistema Eorbis, melh
 
 ## GitHub Stats
 
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeuUserGitHub&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUserGitHub&layout=compact&theme=tokyonight)
+![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Miranda-FA&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Miranda-FA&layout=compact&theme=tokyonight)
 
 ---
 
